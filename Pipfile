@@ -9,6 +9,9 @@ numpy = "*"
 scipy = "*"
 scikit-learn = "*"
 plotly = "*"
+requests = "*"
+beautifulsoup4 = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
