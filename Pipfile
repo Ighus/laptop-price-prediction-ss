@@ -12,6 +12,7 @@ plotly = "*"
 requests = "*"
 beautifulsoup4 = "*"
 nbformat = "*"
+openpyxl = "*"
 
 [dev-packages]
 ipykernel = "*"
