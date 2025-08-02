@@ -1,0 +1,6 @@
+graphic card type,communications,resolution (px),CPU cores,RAM size,operating system,drive type,input devices,multimedia,RAM type,CPU clock speed (GHz),CPU model,state,drive memory size (GB),warranty,screen size,buynow_price
+dedicated graphics,"['bluetooth', 'lan 10/100/1000 mbps']",1920 x 1080,4,32 gb,['no system'],ssd + hdd,"['keyboard', 'touchpad', 'illuminated keyboard', 'numeric keyboard']","['SD card reader', 'camera', 'speakers', 'microphone']",ddr4,2.6,intel core i7,new,1250.0,producer warranty,"17"" - 17.9""",4999.0
+dedicated graphics,"['wi-fi', 'bluetooth', 'lan 10/100 mbps']",1366 x 768,4,8 gb,['windows 10 home'],ssd,"['keyboard', 'touchpad', 'numeric keyboard']","['SD card reader', 'camera', 'speakers', 'microphone']",ddr3,2.4,intel core i7,new,256.0,seller warranty,"15"" - 15.9""",2649.0
+,"['bluetooth', 'nfc (near field communication)']",1920 x 1080,2,8 gb,['windows 10 home'],hdd,,['SD card reader'],ddr4,1.6,intel core i7,new,1000.0,producer warranty,"15"" - 15.9""",3399.0
+,,,2,,,,,,,,,new,,producer warranty,,1599.0
+integrated graphics,"['wi-fi', 'bluetooth']",2560 x 1440,4,8 gb,['windows 10 home'],ssd,"['keyboard', 'touchpad', 'illuminated keyboard']","['SD card reader', 'camera', 'speakers', 'microphone']",ddr4,1.2,other CPU,new,256.0,producer warranty,"12"" - 12.9""",4499.0
